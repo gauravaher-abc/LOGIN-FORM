@@ -1,0 +1,46 @@
+
+	.ww		
+			{float:left;
+			border:1px solid blue; 
+			margin-left:9%;
+			padding-bottom:1%;
+			width:44%; margin-top:5%; 
+			border-radius:10px;}
+	.ww1
+			{color:blue; 
+			padding:5% 3% 5% 5%; 
+			font-size:20px;}
+	.wwimg	
+			{padding:7% 5% 5% 5%;}
+	.google
+			{color:red;
+			padding:5% 3% 5% 5%; 
+			font-size:20px;}	
+	.googimg
+			{float:left;
+			border:1px solid red;
+			padding-bottom:1%;
+			width:43.5%; 
+			margin-top:5%;
+			border-radius:10px;}
+	.sub
+			{PADDING:3% 3% 3% 9%;
+			padding-left:4%;
+			width:94%;
+			margin-top:5%;
+			margin-bottom:8%;
+			background-color:purple;
+			color:white; 
+			font-size:20px;"}
+	.rem
+			{margin-top:5%;  
+			font-size:17px;}
+	.fie
+			{margin:auto;
+			width:40%;
+			padding-top:3%;
+			padding-left:4%;
+			border:1px solid white;}
+	.qq
+			{font-size:19px;
+			width:90%;}
